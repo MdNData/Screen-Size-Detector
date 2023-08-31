@@ -1,0 +1,28 @@
+html {
+  background-color: #000710;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+
+  main {
+    max-width: 500px;
+    margin: 150px auto;
+
+    section {
+      border: 1px solid rgba(255, 255, 255, 0.39);
+      max-width: 200px;
+      margin: auto;
+      border-radius: 8px;
+      padding: 20px;
+
+      p {
+        font-size: 24px;
+        font-weight: 700;
+        span {
+          font-weight: 300;
+          margin-left: 10px;
+        }
+      }
+    }
+  }
+}
