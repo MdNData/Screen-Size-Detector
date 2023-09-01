@@ -16,6 +16,13 @@ function App() {
             Width: <span>{width}px</span>
           </p>
         </section>
+        <footer>
+          <h5>
+            <a href="https://github.com/MdNData/Screen-Size-Detector">
+              Check the project here
+            </a>
+          </h5>
+        </footer>
       </main>
       {}
     </>

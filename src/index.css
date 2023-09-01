@@ -22,4 +22,11 @@ html main section p {
 html main section p span {
   font-weight: 300;
   margin-left: 10px;
+}
+html main footer a {
+  color: white;
+  text-decoration: none;
+}
+html main footer a:hover {
+  color: aqua;
 }/*# sourceMappingURL=index.css.map */
